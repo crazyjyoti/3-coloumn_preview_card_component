@@ -5,7 +5,7 @@
 
 
 ## Screenshot
-### Destop view
+### Desktop view
 ![Screenshot (254)](https://user-images.githubusercontent.com/51984459/180600312-738a1e0e-5fd4-4a3a-9e40-112150052f13.png)
 
 ### Mobile View
