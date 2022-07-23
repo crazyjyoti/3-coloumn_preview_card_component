@@ -1,10 +1,10 @@
 # 3-coloumn_preview_card_component
 #### Building this 3-preview card component using html and css .
-### This is basically a responsive page so that when the screen size changes, the layout also changes which make it more interactive.
+#### This is basically a responsive page so that when the screen size changes, the layout also changes which make it more interactive.
 ## Project Link->https:https://zesty-kringle-409347.netlify.app/
 
 
-##Screenshot
+## Screenshot
 ### Destop view
 ![Screenshot (254)](https://user-images.githubusercontent.com/51984459/180600312-738a1e0e-5fd4-4a3a-9e40-112150052f13.png)
 
