@@ -114,6 +114,10 @@ img{
         
         border-radius:0 0 10px 10px;
     }
+     body{
+         margin-top:50px;
+         margin-bottom:50px;
+     }
     
  }
  
