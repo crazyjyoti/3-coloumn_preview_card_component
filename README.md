@@ -1,0 +1,1 @@
+# 3-coloumn_preview_card_component
